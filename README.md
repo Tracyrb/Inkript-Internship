@@ -21,9 +21,6 @@ To get started with the Cinema Management System, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the `frontend` directory and run `npm install` to install frontend dependencies.
-3. Navigate to the `backend` directory and run `dotnet restore` to install backend dependencies.
-4. Set up your MongoDB database and update the connection string in the backend configuration file (`appsettings.json`).
-5. Start the backend server by running `dotnet run` in the `backend` directory.
 6. Start the frontend server by running `npm start` in the `frontend` directory.
 7. Open your browser and navigate to `http://localhost:4200` to access the application.
 
